@@ -14,6 +14,7 @@ Este é um programa em python que dado um grafo não direcionado atráves de algum 
 ### Entrada (input.txt):
 Primeira linha é:
 **[número_de_vértices] [raiz_da_dfs]**
+
 As linhas restantes são as arestas do grafo em **ordem alfabética (importante!)**
 
 ```
