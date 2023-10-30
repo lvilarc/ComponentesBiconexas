@@ -1,6 +1,6 @@
 # Componentes Biconexas
 
-Este é um programa em python que dado um grafo não direcionado atráves de algum arquivo .txt ele retorna as componentes biconexas e articulações do grafo e informações dos vértices como low, demarcadores, articulações a partir de uma dfs com raíz definida no arquivo .txt
+Este é um programa em python que dado um grafo não direcionado atráves de algum arquivo .txt ele retorna as componentes biconexas e articulações do grafo e informações dos vértices como low, demarcadores a partir de uma dfs com raíz definida no arquivo .txt
 
 ## Requisitos
 
