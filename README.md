@@ -7,7 +7,7 @@ Este é um programa em python que dado um grafo não direcionado atráves de algum 
 - Python
 
 ## Como rodar o programa
-    python componentesBiconexas.py < input.txt
+    python componentes_biconexas.py < input.txt
 
 ## Exemplo
 
